@@ -1,0 +1,2 @@
+#domain;provider;backend;port;protocol
+example.com;route53;nginx;8001;https

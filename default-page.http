@@ -1,0 +1,8 @@
+HTTP/1.0 200 Found
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/plain
+
+418 i'm a teapot !
+
+You've hit the default page, this means there was no frontend and backend to awnser your request.
